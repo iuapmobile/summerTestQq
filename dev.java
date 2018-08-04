@@ -1,29 +1,5 @@
 package com.yyuap.mkb.test;
-// this is master 2018-08-04 10:10
 
-// this is master 2018-08-04 10:10
-
-// this is master 2018-08-04 10:10
-// this is master 2018-08-04 10:10
-
-// this is master 2018-08-04 10:10
-// this is master 2018-08-04 10:10
-// this is master 2018-08-04 10:10
-// this is master 2018-08-04 10:10
-// this is master 2018-08-04 10:10
-// this is master 2018-08-04 10:10
-// this is master 2018-08-04 10:10
-// this is master 2018-08-04 10:10
-
-//update by zhoulei and gct 
-//update by zhoulei and gct 
-
-//update by gct
-//update by gct by 16:31
-
-自己没干完的工作 git stash
-自己干完的工作 git commit
-自己提交服务器的工作 git push
 
 import java.io.File;
 import java.io.FileNotFoundException;

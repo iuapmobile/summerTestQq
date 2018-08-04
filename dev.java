@@ -21,6 +21,10 @@ package com.yyuap.mkb.test;
 //update by gct
 //update by gct by 16:31
 
+自己没干完的工作 git stash
+自己干完的工作 git commit
+自己提交服务器的工作 git push
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
